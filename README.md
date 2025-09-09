@@ -1,132 +1,108 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Angelie T. Fatalla - IT Project Manager Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #;
-            color: #333;https://colorhunt.co/palette/1c352da6b28bf5c9b0f9f6f3
-        }
-        .container {
-            width: 70%;
-            margin: 20px auto;
-            background-color: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #444;
-        }
-        h3 {
-            color: #666;
-        }
-        .profile, .skills, .work-experience, .education, .contact {
-            margin-bottom: 20px;
-        }
-        .contact {
-            font-size: 0.9em;
-            color: #888;
-        }
-        .section-title {
-            font-weight: bold;
-            margin-bottom: 5px;
-        }
-        .section-content {
-            margin-left: 20px;
-        }
-        .email, .phone {
-            text-decoration: none;
-            color: #0056b3;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume - Angelie T. Fatalla</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #f9f9f9;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    td {
+      vertical-align: top;
+      padding: 15px;
+      border: 1px solid #ddd;
+    }
+    h2 {
+      margin-top: 0;
+      color: #444;
+    }
+    ul {
+      margin: 5px 0 5px 20px;
+    }
+    .header {
+      background: #ececec;
+      text-align: center;
+    }
+    .contact {
+      text-align: center;
+      font-size: 14px;
+    }
+    .left-col {
+      width: 35%;
+      background: #f1f1f1;
+    }
+    .right-col {
+      width: 65%;
+    }
+  </style>
 </head>
 <body>
 
-<div class="container">
-    <header>
+  <table>
+    <tr>
+      <td colspan="2" class="header">
         <h1>Angelie T. Fatalla</h1>
-        <h3>IT Project Manager</h3>
-    </header>
+        <p><b>IT Project Manager</b></p>
+      </td>
+    </tr>
 
-    <section class="profile">
-        <div class="section-title">Profile</div>
-        <div class="section-content">
-            <p>I am an IT project manager with holistic knowledge of software development and design. I am also experienced in coordinating with stakeholders.</p>
-        </div>
-    </section>
+    <tr>
+      <td class="left-col">
+        <h2>Profile</h2>
+        <p>I am an IT project manager with holistic knowledge of software development and design. 
+        I am also experienced in coordinating with stakeholders.</p>
 
-    <section class="skills">
-        <div class="section-title">Skills</div>
-        <div class="section-content">
-            <ul>
-                <li>Project Management</li>
-                <li>Software Development</li>
-                <li>Budgeting and Cost Analysis</li>
-                <li>Enterprise Resource Planning</li>
-                <li>Staff and User Training</li>
-                <li>Process Improvement</li>
-            </ul>
-        </div>
-    </section>
+        <h2>Skills</h2>
+        <ul>
+          <li>Project Management</li>
+          <li>Software Development</li>
+          <li>Budgeting and Cost Analysis</li>
+          <li>Enterprise Resource Planning</li>
+          <li>Staff and User Training</li>
+          <li>Process Improvement</li>
+        </ul>
+      </td>
 
-    <section class="work-experience">
-        <div class="section-title">Work Experience</div>
-        <div class="section-content">
-            <div>
-                <strong>Project Manager</strong> <br>
-                <em>Westheon FGW | Nov 2034 - 2040</em>
-                <ul>
-                    <li>Conduct day-to-day project coordination, planning, and implementation across multiple teams.</li>
-                </ul>
-            </div>
-            <div>
-                <strong>Senior UX Designer</strong> <br>
-                <em>Pixelpoint Hive | Jan 2032 - Sept 2034</em>
-                <ul>
-                    <li>Managed complex projects from start to finish.</li>
-                    <li>Collaborated with other designers.</li>
-                </ul>
-            </div>
-        </div>
-    </section>
+      <td class="right-col">
+        <h2>Work Experience</h2>
+        <p><b>Project Manager</b><br>
+        Westheon FGW | Nov 2034 – 2040<br>
+        - Conduct day-to-day project coordination, planning, and implementation across multiple teams</p>
 
-    <section class="education">
-        <div class="section-title">Educational History</div>
-        <div class="section-content">
-            <div>
-                <strong>HGZF Graduate Center</strong> <br>
-                <em>Masters in Project Management | Mar 2031 - Jan 2033</em>
-                <ul>
-                    <li>Studied project planning, coordination, and ethics.</li>
-                    <li>Worked with various startups on launching new apps and services.</li>
-                </ul>
-            </div>
-            <div>
-                <strong>Cliffmoor College</strong> <br>
-                <em>BA in Product Design | Dec 2027 - Dec 2031</em>
-                <ul>
-                    <li>GPA: 3.26</li>
-                    <li>Minor in Management</li>
-                    <li>Thesis involved studying several technology companies and optimizing their product.</li>
-                </ul>
-            </div>
-        </div>
-    </section>
+        <p><b>Senior UX Designer</b><br>
+        Pixelpoint Hive | Jan 2032 – Sept 2034<br>
+        - Managed complex projects from start to finish<br>
+        - Collaborated with other designers</p>
 
-    <section class="contact">
-        <div class="section-title">Contact Information</div>
-        <div class="section-content">
-            <p><strong>Phone:</strong> <a href="tel:+09620558317" class="phone">09620558317</a></p>
-            <p><strong>Email:</strong> <a href="mailto:angelietantayfatalla15@gmail.com" class="email">angelietantayfatalla15@gmail.com</a></p>
-        </div>
-    </section>
-</div>
+        <h2>Educational History</h2>
+        <p><b>HGFZ Graduate Center</b><br>
+        Masters in Project Management | Mar 2031 – Jan 2033<br>
+        - Studied project planning, coordination, and ethics<br>
+        - Worked with startups on launching new apps and services</p>
+
+        <p><b>Cliffmoor College</b><br>
+        BA Product Design | Dec 2027 – Dec 2031<br>
+        - GPA: 3.26<br>
+        - Minor in Management<br>
+        - Thesis: Studied technology companies and optimized their product</p>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="2" class="contact">
+        📞 09620558317 &nbsp; | &nbsp; ✉️ angelietantayfatalla15@gmail.com
+      </td>
+    </tr>
+  </table>
 
 </body>
 </html>
