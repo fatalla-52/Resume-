@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
+  <img scr=.//"ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie" </img>
   <title>Resume - Angelie T. Fatalla</title>
   <style>
     body {
