@@ -3,6 +3,9 @@
 <head>
   <title> Angelie T. Fatalla</title>
   <style>
+.profile-pic
+Width: 400;
+Height: 500; 
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
@@ -46,6 +49,7 @@
   <table>
     <tr>
       <td colspan="2" class="left-col">
+    <img scr="ex
         <h1>Angelie T. Fatalla</h1>
         <p><b>IT Project Manager</b></p>
       </td>
