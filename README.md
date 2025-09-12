@@ -22,7 +22,7 @@
     }
     h2 {
       margin-top: 0;
-      color: #444;
+      color: #1b3d2f;
     }
     ul {
       margin: 5px 0 5px 20px;
