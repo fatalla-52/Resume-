@@ -7,12 +7,12 @@
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
-      background: #f9f9f9;
+      background: #D8E9A8;
     }
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #fff;
+      background: #A6B28B;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     }
     td {
