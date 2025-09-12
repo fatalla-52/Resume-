@@ -12,7 +12,7 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #F5ECD
+      background: #CADCAE
     }
     td {
       vertical-align: top;
@@ -21,7 +21,7 @@
     }
     h2 {
       margin-top: 0;
-      color: #CADCAE;
+      color: #444;
     }
     ul {
       margin: 5px 0 5px 20px;
