@@ -27,7 +27,7 @@
       margin: 5px 0 5px 20px;
     }
     .header {
-      background: #ececec;
+      background: #8ABB6C;
       text-align: center;
     }
     .contact {
