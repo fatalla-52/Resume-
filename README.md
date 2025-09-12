@@ -7,7 +7,7 @@
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
-      background: #F5ECD;
+      background: #F9F9F9;
     }
     table {
       width: 100%;
