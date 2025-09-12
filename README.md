@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <img scr=.//"ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie">
+  <img 
+    scr="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie">
   <title>Resume - Angelie T. Fatalla</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
-      background: #A0A2A1;
+      background: #fff;
     }
     table {
       width: 100%;
