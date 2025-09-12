@@ -11,7 +11,7 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #9CAF88 olivine;
+      background: #CBD5C0 ash gray;
     }
     td {
       vertical-align: top;
