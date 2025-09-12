@@ -10,7 +10,6 @@
     }
     table {
       width: 100%;
-      border-collapse: collapse;
       background: #CBD5C0 ash gray;
     }
     td {
@@ -20,7 +19,7 @@
     }
     h2 {
       margin-top: 0;
-      color: #444;
+      color: #9CAF88;
     }
     ul {
       margin: 5px 0 5px 20px;
