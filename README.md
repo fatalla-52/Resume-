@@ -14,8 +14,8 @@
     }
     td {
       vertical-align: top;
-      padding: 15px;
-      border: 1px solid #ddd;
+      font-size: 15px;
+      border: 1px solid
     }
     h2 {
       margin-top: 0;
