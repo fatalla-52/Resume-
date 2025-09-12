@@ -15,7 +15,7 @@
     td {
       vertical-align: top;
       font-size: 15px;
-      border: 1px solid
+      border: 1px solid #9CAF88;
     }
     h2 {
       margin-top: 0;
