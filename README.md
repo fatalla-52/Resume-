@@ -3,9 +3,11 @@
 <head>
   <title> Angelie T. Fatalla</title>
   <style>
-.profile-pic
-Width: 200;
-Height: 300; 
+profile-pic
+{ 
+  Width: 200;
+Height: 300;
+  }
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
