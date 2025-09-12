@@ -13,12 +13,12 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #b2ac88
+      background: #ffffff;
     }
     td {
       vertical-align: top;
       padding: 15px;
-      border: 1px solid #f2f2f2;
+      border: 1px solid #000;
     }
     h2 {
       margin-top: 0;
@@ -28,7 +28,7 @@
       margin: 5px 0 5px 20px;
     }
     .header {
-      background: #1b3d2f;
+      background: #f2f2f2;
       text-align: center;
     }
     .contact {
