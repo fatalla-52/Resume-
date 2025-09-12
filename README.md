@@ -7,13 +7,12 @@
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
-      background: #D8E9A8;
+      background: #F5ECD;
     }
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #A6B28B;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      background: #8ABB6C
     }
     td {
       vertical-align: top;
