@@ -19,13 +19,13 @@
     }
     h2 {
       margin-top: 0;
-      color: #9CAF88 olivine;
+      color: #444;
     }
     ul {
       margin: 5px 0 5px 20px;
     }
     .header {
-      background: #000 black;
+      background: #9CAF88 olivine;
       text-align: center;
     }
     .contact {
