@@ -13,7 +13,7 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #A0A2A1
+      background: #c7c9c7
     }
     td {
       vertical-align: top;
@@ -28,7 +28,7 @@
       margin: 5px 0 5px 20px;
     }
     .header {
-      background: #8E908F;
+      background: #d0d2d0;
       text-align: center;
     }
     .contact {
@@ -37,7 +37,7 @@
     }
     .left-col {
       width: 35%;
-      background: #B0B2B1;
+      background: #e0e2e0;
     }
     .right-col {
       width: 65%;
