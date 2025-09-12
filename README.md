@@ -13,22 +13,22 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #7a7a7a
+      background: #b2ac88
     }
     td {
       vertical-align: top;
       padding: 15px;
-      border: 1px solid #ddd;
+      border: 1px solid #f2f2f2;
     }
     h2 {
       margin-top: 0;
-      color: #1b3d2f;
+      color: #;
     }
     ul {
       margin: 5px 0 5px 20px;
     }
     .header {
-      background: #d0d2d0;
+      background: #1b3d2f;
       text-align: center;
     }
     .contact {
@@ -37,7 +37,7 @@
     }
     .left-col {
       width: 35%;
-      background: #e0e2e0;
+      background: #ffffff;
     }
     .right-col {
       width: 65%;
