@@ -39,7 +39,7 @@ Height: 300;
     }
     .left-col {
       width: 35%;
-      background #fififi;
+      background #DFE6DA alabaster;
     }
     .right-col {
       width: 65%;
@@ -56,6 +56,7 @@ Height: 300;
         <p><b>IT Project Manager</b></p>
       </td>
     </tr>
+    
     <tr>
       <td class="left-col">
         <h2>Profile</h2>
