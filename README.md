@@ -12,7 +12,7 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #CADCAE
+      background: #E1EE9C9
     }
     td {
       vertical-align: top;
