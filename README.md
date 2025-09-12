@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <img 
-    scr="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie">
   <title>Resume - Angelie T. Fatalla</title>
   <style>
     body {
@@ -18,7 +16,7 @@
     td {
       vertical-align: top;
       padding: 15px;
-      border: 1px solid #000;
+      border: 1px solid #;
     }
     h2 {
       margin-top: 0;
@@ -53,7 +51,7 @@
         <p><b>IT Project Manager</b></p>
       </td>
     </tr>
-
+<img scr="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie">
     <tr>
       <td class="left-col">
         <h2>Profile</h2>
