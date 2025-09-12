@@ -47,12 +47,7 @@
 
   <table>
     <tr>
-      <td colspan="2" class="header">
-      <img scr="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie" class="profile-pic">
-    <Style>
-.profile-pic
-Width:400;
-Height:500;
+      <td colspan="2" class="left-col">
         <h1>Angelie T. Fatalla</h1>
         <p><b>IT Project Manager</b></p>
       </td>
