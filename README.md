@@ -3,10 +3,10 @@
 <head>
   <title> Angelie T. Fatalla</title>
   <style>
-profile-pic
+.profile-pic
 { 
-  Width: 200;
-Height: 300;
+  Width: 150;
+Height: 150;
   }
     body {
       font-family: Arial, sans-serif;
@@ -51,7 +51,7 @@ Height: 300;
   <table>
      <tr>
        <td colspan ="2" class="header">
-         <img scr="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie">
+         <img scr=".//ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie" class="profile-pic"> 
         <h1>Angelie T. Fatalla</h1>
         <p><b>IT Project Manager</b></p>
       </td>
