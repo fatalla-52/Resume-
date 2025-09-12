@@ -34,7 +34,7 @@
     }
     .left-col {
       width: 35%;
-      background: #f1f1f1;
+      background: #819171 reseda green;
     }
     .right-col {
       width: 65%;
