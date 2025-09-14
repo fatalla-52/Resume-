@@ -92,7 +92,7 @@
 <body>
   <!-- LEFT SIDE -->
   <div class="left">
-    <img src="your-image.jpg" alt="Profile Picture" class="profile-pic">
+    <img src="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="angelie" class="angelie">
 
     <div>
       <div class="section-title">PROFILE</div>
