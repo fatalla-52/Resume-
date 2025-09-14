@@ -3,28 +3,27 @@
 <head>
   <title> Angelie T. Fatalla</title>
   <style>
-.profile-pic
+profile-pic
 { 
   Width: 150;
 Height: 150;
   }
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      background: #f9f9f9;
+   body
+    {
+      color: #f9f9f9;
+      font-size; 40px 
     }
     table {
-      width: 100%;
-      background: #9CAF88 olivine;
+      color: #9CAF88 olivine
+      font-size: 35px;
+      font-weight: 800;
     }
     td {
-      vertical-align: top;
-      padding: 15px;
-      border: 1px solid #dddd;
+      
     }
     h2 {
-      margin-top: 0;
       color: #444;
+      
     }
     ul {
       margin: 5px 0 5px 20px;
