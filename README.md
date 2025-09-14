@@ -10,26 +10,21 @@ Height: 150;
   }
    body
     {
-      color: #f9f9f9;
+      color: #96A78D;
       font-size; 40px 
     }
     table {
-      color: #9CAF88 olivine
+      color: #D9E9CF;
       font-size: 35px;
       font-weight: 800;
     }
-    td {
-      
-    }
     h2 {
       color: #444;
-      
-    }
-    ul {
-      margin: 5px 0 5px 20px;
+      font-siz: 35px;
+      font-weight: 500;
     }
     .header {
-      background: #CBD5C0 ash gray;
+      background: #CBD5C0;
       text-align: center;
     }
     .contact {
@@ -38,7 +33,7 @@ Height: 150;
     }
     .left-col {
       width: 35%;
-      background #DFE6DA alabaster;
+      background #DFE6DA;
     }
     .right-col {
       width: 65%;
