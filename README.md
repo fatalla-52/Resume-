@@ -3,7 +3,7 @@
 <head>
 <title>Angelie T. Fatalla - IT Project Manager</title>
 <style>
-  profilr pic 
+  profile pic 
   {
     widht: 150;
     height: 150:
@@ -133,9 +133,15 @@ h3 {
       </div>
     </td>
   </tr>
-</table>
-    <div class="contact">
+   <tr>
+      <div class="contact">
       <p>📞 09620558317</p>
       <p>✉️ angelietantayfatalla15@gmail.com</p>
+      </div>
+      </tr>
+    </td>
+  </div>
+</table>
+
 </body>
 </html>
