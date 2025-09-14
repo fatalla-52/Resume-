@@ -54,7 +54,7 @@ Height: 150;
     <tr>
       <td class="left-col">
         <h2>Profile</h2>
-        <p>I am an IT project manager with holistic knowledge of software development and design. 
+        <p style="color: white I am an IT project manager with holistic knowledge of software development and design. 
         I am also experienced in coordinating with stakeholders.</p>
        <h2>Skills</h2>
         <ul>
