@@ -1,99 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title> Angelie T. Fatalla</title>
+  <meta charset="UTF-8">
+  <title>Resume - Angelie T. Fatalla</title>
   <style>
-profile-pic
-{ 
-  Width: 150;
-Height: 150;
-  }
-   body
-    {
-      color: #96A78D;
-      font-size; 40px 
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      display: flex;
     }
-    table {
-      color: #D9E9CF;
-      font-size: 35px;
-      font-weight: 800;
+    .left {
+      width: 35%;
+      background: #d8dbd5; /* sage color */
+      padding: 20px;
     }
-    h2 {
-      color: #444;
-      font-siz: 35px;
-      font-weight: 500;
+    .left img {
+      width: 100%;
+      border-radius: 10px;
     }
-    .header {
-      background: #CBD5C0;
-      text-align: center;
+    .section-title {
+      font-weight: bold;
+      margin-top: 20px;
+      color: #000;
     }
-    .contact {
-      text-align: center;
+    .left p, .left li {
+      font-size: 14px;
+      line-height: 1.6;
+    }
+    .right {
+      width: 65%;
+      padding: 30px;
+      background: #f5f5f5; /* very light gray */
+    }
+    .name {
+      font-size: 28px;
+      font-weight: bold;
+      color: #06470c; /* dark green */
+    }
+    .subtitle {
+      font-size: 16px;
+      color: #333;
+      margin-bottom: 20px;
+    }
+    .right h3 {
+      font-size: 18px;
+      margin-top: 20px;
+      margin-bottom: 8px;
+      color: #000;
+    }
+    .job-title {
+      font-weight: bold;
+      font-size: 15px;
+    }
+    .company {
+      font-style: italic;
       font-size: 14px;
     }
-    .left-col {
-      width: 35%;
-      background #DFE6DA;
+    ul {
+      margin: 5px 0 15px 20px;
     }
-    .right-col {
-      width: 65%;
+    .contact {
+      margin-top: 30px;
+      font-size: 14px;
     }
   </style>
 </head>
 <body>
+  <div class="left">
+    <img src="gvhbh.jpg" alt="Angelie">
+    <div class="section-title">PROFILE</div>
+    <p>
+      I am an IT project manager with holistic knowledge of software development and design. I am also experienced in coordinating with stakeholders.
+    </p>
 
-  <table>
-     <tr>
-       <td colspan ="2" class="header">
-         <img scr=".//ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie" class="profile-pic"> 
-        <h1>Angelie T. Fatalla</h1>
-        <p><b>IT Project Manager</b></p>
-      </td>
-    </tr>
-    
-    <tr>
-      <td class="left-col">
-        <h2>Profile</h2>
-        <p style="color: white I am an IT project manager with holistic knowledge of software development and design. 
-        I am also experienced in coordinating with stakeholders.</p>
-       <h2>Skills</h2>
-        <ul>
-          <li>Project Management</li>
-          <li>Software Development</li>
-          <li>Budgeting and Cost Analysis</li>
-          <li>Enterprise Resource Planning</li>
-          <li>Staff and User Training</li>
-          <li>Process Improvement</li>
-        </ul>
-      </td>
-      <td class="right-col">
-        <h2>Work Experience</h2>
-        <p><b>Project Manager</b><br>
-        Westheon FGW | Nov 2034 – 2040<br>
-        - Conduct day-to-day project coordination, planning, and implementation across multiple teams</p>
-        <p><b>Senior UX Designer</b><br>
-        Pixelpoint Hive | Jan 2032 – Sept 2034<br>
-        - Managed complex projects from start to finish<br>
-        - Collaborated with other designers</p>
-        <h2>Educational History</h2>
-        <p><b>HGFZ Graduate Center</b><br>
-        Masters in Project Management | Mar 2031 – Jan 2033<br>
-        - Studied project planning, coordination, and ethics<br>
-        - Worked with startups on launching new apps and services</p>
-        <p><b>Cliffmoor College</b>
-        BA Product Design | Dec 2027 – Dec 2031<br>
-      - GPA: 3.26<br>
-      - Minor in Management<br>
-      - Thesis: Studied technology companies and optimized their product</p>
-     </td>
-   </tr>
+    <div class="section-title">SKILLS</div>
+    <ul>
+      <li>Project Management</li>
+      <li>Software Development</li>
+      <li>Budgeting and Cost Analysis</li>
+      <li>Enterprise Resource Planning</li>
+      <li>Staff and User Training</li>
+      <li>Process Improvement</li>
+    </ul>
 
-  <tr>
-     <td colspan="2" class="contact">
-        📞 09620558317 &nbsp; | &nbsp; ✉️ angelietantayfatalla15@gmail.com
-      </td>
-    </tr>
-  </table>
+    <div class="contact">
+      <p>📞 09620558317</p>
+      <p>✉️ angelietantayfatalla15@gmail.com</p>
+    </div>
+  </div>
 
-</body>
-</html>
+  <div class="right">
+    <div class="name">Angelie T. Fatalla</div>
+    <div class="subtitle">IT Project Manager</div>
+
+    <h3>WORK EXPERIENCE</h3>
+    <div class="job">
+      <div class="job-title">Project Manager</div>
+      <div class="company">Westheon FGW | Nov 2034 - 2040</div>
+      <ul>
+        <li>Conduct day-to-day project coordination, planning, and implementation across multiple teams</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-title">Senior UX Designer</div>
+      <div class="company">Pixelpoint
