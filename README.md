@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Resume - Angelie T. Fatalla</title>
   <style>
     body {
@@ -90,15 +88,12 @@
   </style>
 </head>
 <body>
-  <!-- LEFT SIDE -->
   <div class="left">
     <img src="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="angelie" class="angelie">
-
     <div>
       <div class="section-title">PROFILE</div>
       <p>I am an IT project manager with holistic knowledge of software development and design. I am also experienced in coordinating with stakeholders.</p>
     </div>
-
     <div>
       <div class="section-title">SKILLS</div>
       <ul>
@@ -110,42 +105,35 @@
         <li>Process Improvement</li>
       </ul>
     </div>
-
-    <div class="contact">
-      <p>📞 09620558317</p>
-      <p>✉️ angelietantayfatalla15@gmail.com</p>
-    </div>
-  </div>
-
-  <!-- RIGHT SIDE -->
   <div class="right">
     <h1>Angelie T. Fatalla</h1>
     <div class="subtitle">IT PROJECT MANAGER</div>
-
     <h2>WORK EXPERIENCE</h2>
-
     <h3>Project Manager</h3>
     <p><em>Westheon FGW | Nov 2034 - 2040</em></p>
     <ul>
       <li>Conduct day-to-day project coordination, planning, and implementation across multiple teams</li>
     </ul>
-
+  </div>
+    <div class="job">
     <h3>Senior UX Designer</h3>
     <p><em>Pixelpoint Hive | Jan 2032 - Sept 2034</em></p>
     <ul>
       <li>Managed complex projects from start to finish</li>
       <li>Collaborated with other designers</li>
     </ul>
-
+    </div>
+  </div>
+    <div class="education">
     <h2>EDUCATIONAL HISTORY</h2>
-
     <h3>HGFZ Graduate Center</h3>
     <p><em>Masters in Project Management | Mar 2031 - Jan 2033</em></p>
     <ul>
       <li>Studied project planning, coordination, and ethics</li>
       <li>Worked with various startups on launching new apps and services</li>
     </ul>
-
+  </div>
+  <div class="school">
     <h3>Cliffmoor College</h3>
     <p><em>BA Product Design | Dec 2027 - Dec 2031</em></p>
     <ul>
@@ -154,6 +142,12 @@
       <li>Thesis involved studying several technology companies and optimizing their product</li>
     </ul>
   </div>
+</div>
+    <div class="contact">
+      <p>📞 09620558317</p>
+      <p>✉️ angelietantayfatalla15@gmail.com</p>
+    </div>
+    </div>
 </body>
 </html>
 
