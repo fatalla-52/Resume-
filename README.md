@@ -1,25 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 <title>Angelie T. Fatalla - IT Project Manager</title>
 <style>
-  profile pic 
-  {
-    widht: 150;
-    height: 150:
-  }
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
 }
+
 table {
   width: 100%;
   border-collapse: collapse;
 }
+
 td {
   padding: 8px;
   vertical-align: top;
 }
+
+/* --- Left Column Styles --- */
 .left-column {
   width: 40%;
   background-color: #f9f9f9;
@@ -32,28 +31,40 @@ td {
 .skills-section {
   margin-bottom: 20px;
 }
+
+/* --- Right Column Styles --- */
 .right-column {
   width: 60%;
 }
+
+/* --- Header Styles --- */
 h1 {
   font-size: 2em;
   margin-bottom: 5px;
 }
+
 h2 {
   font-size: 1.5em;
   margin-top: 0;
   margin-bottom: 10px;
 }
+
 h3 {
   font-size: 1.2em;
   margin-bottom: 5px;
 }
+
+/* --- Work Experience Styles --- */
 .work-experience-item {
   margin-bottom: 15px;
 }
+
+/* --- Education Styles --- */
 .education-item {
   margin-bottom: 15px;
 }
+
+/* --- Contact Info Styles --- */
 .contact-info {
   margin-top: 20px;
   font-size: 0.9em;
@@ -65,11 +76,13 @@ h3 {
 <table>
   <tr>
     <td class="left-column">
-      <div class="PROFILE SECTION">
-        <img src="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie"
+      <!-- Profile Section -->
+      <div class="profile-section">
         <h2>PROFILE</h2>
         <p>I am an IT project manager with holistic knowledge of software development and design. I am also experienced in coordinating with stakeholders.</p>
       </div>
+
+      <!-- Skills Section -->
       <div class="skills-section">
         <h2>SKILLS</h2>
         <ul>
@@ -82,10 +95,15 @@ h3 {
         </ul>
       </div>
     </td>
+
     <td class="right-column">
+      <!-- Header -->
       <h1>Angelie T. Fatalla</h1>
       <p>IT PROJECT MANAGER</p>
+
+      <!-- Work Experience -->
       <h2>WORK EXPERIENCE</h2>
+
       <div class="work-experience-item">
         <h3>Project Manager</h3>
         <p>Westheon FGW | Nov 2034 - 2040</p>
@@ -93,6 +111,7 @@ h3 {
           <li>Conduct day-to-day project coordination, planning, and implementation across multiple teams</li>
         </ul>
       </div>
+
       <div class="work-experience-item">
         <h3>Senior UX Designer</h3>
         <p>Pixelpoint Hive | Jan 2032 - Sept 2034</p>
@@ -101,7 +120,10 @@ h3 {
           <li>Collaborated with other designers</li>
         </ul>
       </div>
+
+      <!-- Education -->
       <h2>EDUCATIONAL HISTORY</h2>
+
       <div class="education-item">
         <h3>HGFZ Graduate Center</h3>
         <p>Masters in Project Management | Mar 2031 - Jan 2033</p>
@@ -120,12 +142,12 @@ h3 {
           <li>Thesis involved studying several technology companies and optimizing their product</li>
         </ul>
       </div>
-    <tr>
-      <div class="contact">
-      <p>📞 09620558317</p>
-      <p>✉️ angelietantayfatalla15@gmail.com</p>
-      </div>
-     </tr>
+    </td>
+  </tr>
 </table>
+<div class="contact-info">
+  <p>>📞09620558317 | <a href="✉️mailto:angelietantayfatalla15@gmail.com">angelietantayfatalla15@gmail.com</a></p>
+</div>
 </body>
 </html>
+Write to Angie Fatalla
