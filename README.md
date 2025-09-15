@@ -70,8 +70,6 @@ h3 {
         <h2>PROFILE</h2>
         <p>I am an IT project manager with holistic knowledge of software development and design. I am also experienced in coordinating with stakeholders.</p>
       </div>
-
-      <!-- Skills Section -->
       <div class="skills-section">
         <h2>SKILLS</h2>
         <ul>
@@ -84,15 +82,10 @@ h3 {
         </ul>
       </div>
     </td>
-
     <td class="right-column">
-      <!-- Header -->
       <h1>Angelie T. Fatalla</h1>
       <p>IT PROJECT MANAGER</p>
-
-      <!-- Work Experience -->
       <h2>WORK EXPERIENCE</h2>
-
       <div class="work-experience-item">
         <h3>Project Manager</h3>
         <p>Westheon FGW | Nov 2034 - 2040</p>
@@ -100,7 +93,6 @@ h3 {
           <li>Conduct day-to-day project coordination, planning, and implementation across multiple teams</li>
         </ul>
       </div>
-
       <div class="work-experience-item">
         <h3>Senior UX Designer</h3>
         <p>Pixelpoint Hive | Jan 2032 - Sept 2034</p>
@@ -109,10 +101,7 @@ h3 {
           <li>Collaborated with other designers</li>
         </ul>
       </div>
-
-      <!-- Education -->
       <h2>EDUCATIONAL HISTORY</h2>
-
       <div class="education-item">
         <h3>HGFZ Graduate Center</h3>
         <p>Masters in Project Management | Mar 2031 - Jan 2033</p>
@@ -131,9 +120,7 @@ h3 {
           <li>Thesis involved studying several technology companies and optimizing their product</li>
         </ul>
       </div>
-    </td>
-  </tr>
-   <tr>
+      <tr>
       <div class="contact">
       <p>📞 09620558317</p>
       <p>✉️ angelietantayfatalla15@gmail.com</p>
