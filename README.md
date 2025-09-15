@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Angelie T. Fatalla - IT Project Manager</title>
 <style>
@@ -120,15 +120,12 @@ h3 {
           <li>Thesis involved studying several technology companies and optimizing their product</li>
         </ul>
       </div>
-      <tr>
+    <tr>
       <div class="contact">
       <p>📞 09620558317</p>
       <p>✉️ angelietantayfatalla15@gmail.com</p>
       </div>
-      </tr>
-    </td>
-  </div>
+     </tr>
 </table>
-
 </body>
 </html>
