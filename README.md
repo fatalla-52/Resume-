@@ -21,17 +21,17 @@ Height: 150;
       vertical-align: top;
       padding: 15px;
       border: 1px solid;
-      color: #f4dbd5;              
+      color: #658354;              
     }
     h2 {
       margin-top: 0;
-      color: #;
+      color: #c7adb5;
     }
     ul {
       margin: 5px 0 5px 20px;
     }
     .header {
-      background: #;
+      background: #606c38;
       text-align: center;
     }
     .contact {
@@ -40,10 +40,11 @@ Height: 150;
     }
     .left-col {
       width: 35%;
-      background #c7ddb5;
+      background #2a0800;
     }
     .right-col {
       width: 65%;
+      color: #c7ddb5;
     }
   </style>
 </head>
@@ -57,7 +58,6 @@ Height: 150;
         <p><b>IT Project Manager</b></p>
       </td>
     </tr>
-    
     <tr>
       <td class="left-col">
         <h2>Profile</h2>
