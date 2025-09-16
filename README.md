@@ -21,17 +21,17 @@ Height: 150;
       vertical-align: top;
       padding: 15px;
       border: 1px solid;
-      color: #ddead1;
+      color: #f4dbd5;              
     }
     h2 {
       margin-top: 0;
-      color: #658354;
+      color: #;
     }
     ul {
       margin: 5px 0 5px 20px;
     }
     .header {
-      background: #606c38;
+      background: #;
       text-align: center;
     }
     .contact {
