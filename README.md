@@ -14,11 +14,13 @@
       padding: 0;
       display: flex;
     }
+    table
     .left {
       width: 35%;
       background-color: #d9dbd4; /* sage color */
       padding: 20px;
     }
+    td
     .left img {
       width: 100%;
       border-radius: 10px;
@@ -83,8 +85,17 @@
   </style>
 </head>
 <body>
+  <table> 
+    <tr>
+      <td colspan ="2"  class="header">
   <div class="left">
-    <img src="ecaebfe5-ceb0-4487-4e3812dfe7ab.jpg" alt="Angelie">
+    <img src="ecaebfe5-ceb0-4487-4e3812dfe7ab.jpg" alt="Angelie" class="profile-pic">
+      <div class="right">
+    <div class="name">Angelie T. Fatalla</div>
+    <div class="title">IT PROJECT MANAGER</div>
+      </td>
+      </tr>
+        <tr>
     <h2>PROFILE</h2>
     <p>
       I am an IT project manager with holistic knowledge of software development and design. 
