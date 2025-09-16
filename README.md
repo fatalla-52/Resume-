@@ -3,7 +3,7 @@
 <head>
   <title> Angelie T. Fatalla</title>
   <style>
-.profile-pic
+profile-pic
 { 
   Width: 150;
 Height: 150;
@@ -15,7 +15,7 @@ Height: 150;
     }
     table {
       width: 100%;
-      background: #9CAF88 olivine;
+      background: #;
     }
     td {
       vertical-align: top;
@@ -24,13 +24,13 @@ Height: 150;
     }
     h2 {
       margin-top: 0;
-      color: #444;
+      color: #;
     }
     ul {
       margin: 5px 0 5px 20px;
     }
     .header {
-      background: #CBD5C0 ash gray;
+      background: #;
       text-align: center;
     }
     .contact {
@@ -39,7 +39,7 @@ Height: 150;
     }
     .left-col {
       width: 35%;
-      background #DFE6DA alabaster;
+      background #;
     }
     .right-col {
       width: 65%;
