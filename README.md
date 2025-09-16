@@ -51,8 +51,9 @@ Height: 150;
   <table>
      <tr>
        <td colspan ="2" class="header">
-         <img scr=".//ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie" class="profile-pic"> 
+         <img scr="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie" class="profile-pic"> 
         <h1>Angelie T. Fatalla</h1>
+         <hr>
         <p><b>IT Project Manager</b></p>
       </td>
     </tr>
