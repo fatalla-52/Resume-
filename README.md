@@ -20,17 +20,18 @@ Height: 150;
     td {
       vertical-align: top;
       padding: 15px;
-      border: 1px solid #dddd;
+      border: 1px solid;
+      color: #658354;
     }
     h2 {
       margin-top: 0;
-      color: #;
+      color: #ddead1;
     }
     ul {
       margin: 5px 0 5px 20px;
     }
     .header {
-      background: #;
+      background: #4b6043;
       text-align: center;
     }
     .contact {
@@ -39,7 +40,7 @@ Height: 150;
     }
     .left-col {
       width: 35%;
-      background #;
+      background #c7ddb5;
     }
     .right-col {
       width: 65%;
@@ -53,7 +54,6 @@ Height: 150;
        <td colspan ="2" class="header">
          <img scr="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie" class="profile-pic"> 
         <h1>Angelie T. Fatalla</h1>
-         <hr>
         <p><b>IT Project Manager</b></p>
       </td>
     </tr>
