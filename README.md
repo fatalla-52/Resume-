@@ -30,7 +30,7 @@ Height: 150;
     ul {
       margin: 5px 0 5px 20px;
     }
-    .header {
+    header {
       background: #606c38;
       text-align: center;
     }
@@ -52,7 +52,7 @@ Height: 150;
 
   <table>
      <tr>
-       <td colspan ="2" class="header">
+       <class="header">
          <img scr="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Angelie" class="profile-pic"> 
         <h1>Angelie T. Fatalla</h1>
         <p><b>IT Project Manager</b></p>
