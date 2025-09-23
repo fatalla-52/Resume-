@@ -109,7 +109,7 @@
   <div class="container">
     <!-- Left Side -->
     <div class="left">
-      <img src=".jpg" alt="Profile Photo">
+      <img src="ecaebfe5-ceb0-4487-810f-4e3812dfe7ab.jpg" alt="Profile Photo">
       <h2>PROFILE</h2>
       <p>
         I am an IT project manager with holistic knowledge of software development and design.
